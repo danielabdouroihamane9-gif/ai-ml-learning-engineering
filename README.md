@@ -198,9 +198,9 @@ This journey combines three complementary programs rather than treating them as 
 
 | Program                                                | Primary Focus                                             |
 | ------------------------------------------------------ | --------------------------------------------------------- |
-| Matsuo Lab — GCI World 2026                           | Data science and machine learning foundations             |
-| WorldQuant University — Data Science Fundamentals Lab | Practical data science and real-world datasets            |
-| DataTalks.Club — Machine Learning Zoomcamp 2026       | Machine learning development, engineering, and deployment |
+| Matsuo Lab — GCI World 2026                            | Data science and machine learning foundations             |
+| WorldQuant University — Data Science Fundamentals Lab  | Practical data science and real-world datasets            |
+| DataTalks.Club — Machine Learning Zoomcamp 2026        | Machine learning development, engineering, and deployment |
 
 ## 📁 Repository Structure
 
